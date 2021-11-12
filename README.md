@@ -20,7 +20,7 @@ If you want to find out more about me or my projects here is my [portafolio](htt
 
 Some of the projects I'm working on might not be listed here yet, but you should definitely get a decent insight!
 
-- [Transmodal](http://www.transmodal.com.mx), the website for the company 
+- [Transmodal](www.transmodal.com.mx), the website for the company 
 - <b>Smartcontracts</b>, I have been developing and exploring this new technology for our clients
 - _more to new proyects..._
 
@@ -61,7 +61,7 @@ I am a collaborator for the [fedora project](https://start.fedoraproject.org/), 
 
 I hope we can collaborate in the future!
 
-- Juan
+-- Juan
 
 <!---
 juanfmange/juanfmange is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
