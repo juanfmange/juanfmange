@@ -56,6 +56,13 @@ I have knowledge and experience handling the following technologies:
 <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/visualstudiocode.svg" />
 </p>
 
+<div>
+  <img height="200px" width="400em" src="https://github-readme-stats.vercel.app/api?username=juanfmange&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="200px" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanfmange&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+
+
+
 I am a collaborator for the [fedora project](https://start.fedoraproject.org/), i have been translating documents to spanish and have been dev on python
 
 
