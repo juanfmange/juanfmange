@@ -8,7 +8,7 @@
 
 
 Hi, nice to meet you! My name is **Juan**,
-I'm a **self-employed full stack / devops / mechatronic engineer** working at Transmodal S.C. and a lot of proyects of IoT and data science!<br>
+I'm a **Backend software / devops / mechatronic engineer** working at Nextia & Dacodes<br>
 
 
 #### Contact
@@ -39,15 +39,20 @@ I have knowledge and experience handling the following technologies:
 <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/php.svg" />
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" />
 <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/djangoproject.svg" />
+    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/flask.svg" />
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/docker.svg" />
 <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/nextcloud.svg" />
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/digitalocean.svg" />
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/amazon_s3.svg" />
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/trello.svg" />
+    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/jira.svg" />
+    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/bitbucket.svg" />
+    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" />
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/stackoverflow.svg" />
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/arch_linux.svg" />
 <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/debian.svg" />
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/ubuntu.svg" />
+    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/centos.svg" />
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/windows.svg" />
 <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/redhat.svg" />
 <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/macos.svg" />
