@@ -22,6 +22,7 @@ Some of the projects I'm working on might not be listed here yet, but you should
 
 - [Transmodal](www.transmodal.com.mx), the website for the company 
 - <b>Smartcontracts</b>, I have been developing and exploring this new technology for our clients
+- API REST develpment
 - _more to new proyects..._
 
 ### My skills
